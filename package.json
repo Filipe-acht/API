@@ -1,0 +1,11 @@
+{
+  "name": "API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Filipe-acht/API.git",
+  "author": "achttausendachthundertachtundachtzig <filipebnks@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
